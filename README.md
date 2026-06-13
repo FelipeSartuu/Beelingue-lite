@@ -4,6 +4,9 @@ Projeto simples em **Python** para estudar **LangChain**, **LangGraph** e **Gemi
 
 ---
 
+![Texto Alternativo para acessibilidade](public/Screenshot_1.jpg)
+
+
 ## O que o projeto faz?
 
 O Beelingue Lite permite que o usuário escolha um modo de estudo:
