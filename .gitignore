@@ -1,0 +1,14 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos sensíveis
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados localmente
+.streamlit/
+data/memory.json
