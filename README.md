@@ -66,19 +66,7 @@ https://aistudio.google.com/app/apikey
 
 3. Copie a chave.
 
-4. Na raiz do projeto, copie o arquivo `.env.example` e renomeie para `.env`.
-
-No Windows PowerShell:
-
-```bash
-copy .env.example .env
-```
-
-No Linux/Mac:
-
-```bash
-cp .env.example .env
-```
+4. Na raiz do projeto, crie um arquivo `.env`.
 
 5. Abra o `.env` e coloque sua chave:
 
