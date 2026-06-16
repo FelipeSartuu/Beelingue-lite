@@ -275,14 +275,3 @@ Qual a diferença entre do e does?
 
 ---
 
-## Como explicar esse projeto em entrevista
-
-Você pode falar:
-
-> Criei o Beelingue Lite, um agente de IA para estudo de inglês. Ele usa Streamlit como interface, LangChain para estruturar prompts e chamadas ao modelo Gemini, e LangGraph para organizar o fluxo do agente em estados, nodes e rotas condicionais. O usuário pode corrigir frases, conversar em inglês, gerar quizzes ou pedir explicações. Também implementei uma memória simples em JSON para manter histórico recente do aluno.
-
----
-
-## Aviso
-
-Este projeto é educacional e foi criado para estudo. Ele não é uma plataforma completa de ensino de inglês.
